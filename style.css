@@ -1,0 +1,191 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+a{
+	text-decoration: none;
+	color: rgb(248, 242, 242);
+}
+ul{
+	list-style: none;
+}
+header {
+    
+    width: 100%;
+    background-color: blue;
+    
+}
+
+.headerblue {
+    padding:  20px;
+    
+}
+.logo img{
+    width: 100px;
+    
+   
+}
+.logo {
+    margin: 0 0 0 15rem;
+}
+
+.nav-1, .ul {
+    
+    
+    display: inline-block;
+    
+    
+}
+.inl-bl{
+    display: inline-block;
+    
+}
+
+.inl-bl li{
+    display: inline-block;
+    margin-left: 20px;
+    
+    
+}
+.nav-1, .logo {
+    vertical-align: middle;
+}
+
+.contact {
+    
+    background-color: white;
+    height: 55px;
+    border-radius: 28px;
+}
+.contact-text {
+    color:black;
+    padding: 18px 43px 18px 36px;
+
+}
+.img-area {
+    width: 100%;
+    height: 1100px;
+    
+    background-color: blue;
+    padding-top: 100px;
+    padding-left: 240px;
+    margin-left: auto;
+    margin-right: auto;
+   
+   
+}
+
+.img-1 {
+    width: 707px;
+    height: 597px;
+  
+    margin-right: 25px;
+    
+
+}
+
+.img-2 {
+    position: relative;
+    top: 10%;
+    width: 948px;
+    height: 800px;
+  
+
+}
+.about {
+    position: relative;
+    width: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 250px;
+}
+.about div {
+ 
+ display: inline-block;
+ 
+}
+.about-text {
+    
+    width: 500px;
+    padding-left: 240px;
+    margin-right: 125px;
+}
+
+.img-3 {
+    position: absolute;
+    top: 20%;
+    
+   
+}
+.service {
+    position: relative;
+   width: 2000px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 170px;
+    padding-bottom: 50px;
+}
+.service div {
+    display: inline-block;
+}
+.img-4 {
+   
+    padding-left: 240px;
+    margin-right: 40px;
+}
+.service-text {
+    position: absolute;
+    bottom: 40%;
+    width: 300px;
+}
+.rec1 {
+    width: 400px;
+}
+.rec2 {
+    width: 400px;
+}
+.rec3 {
+    width: 400px;
+}
+
+.text-h1{
+    margin-top: 30px;
+    margin-left:362px;
+}
+
+
+
+.fot {
+    background-color: blue;
+    
+    left: 0px;
+    
+    
+}
+.fo-section {
+    margin: 0 0 0 15rem;
+    
+}
+
+.fo-section div {
+    padding: 10px;
+}
+.context {
+    width: 500px;
+    
+}
+.com-area div{
+    display: inline-block;
+}
+
+
+.ufl{
+    margin-left: 240px;
+}
+.guli {
+    margin-left: 1000px;
+}
+
